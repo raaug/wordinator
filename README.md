@@ -1,0 +1,2 @@
+# wordinator
+Wordle game solver
